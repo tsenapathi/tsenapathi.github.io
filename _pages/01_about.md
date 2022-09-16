@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-<img src="../../../../assets/img/esther.JPG" width="50%">
+<img src="../../../../assets/img/tharindu_senapathi.jpeg" width="50%">
 
 <div style="text-align: justify"> 
 I am a passionate and always curious scientist, teacher and mentor. 

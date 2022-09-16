@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-
-<img src="../../../../assets/img/tharindu_senapathi.jpeg" width="50%">
+<p align="center">
+<img src="../../../../assets/img/tharindu_senapathi.jpeg" width="33%">
+</p>
 
 <div style="text-align: justify"> 
 I am a passionate and always curious scientist, teacher and mentor. 

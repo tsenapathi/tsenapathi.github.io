@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <p align="center">
-<img src="../../../../assets/img/tharindu_senapathi.jpeg" width="33%">
+ <img width="300" height="300" src="../../../../assets/img/tharindu_senapathi.jpeg">
 </p>
 
 <div style="text-align: justify"> 
